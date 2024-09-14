@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @madisonoliviaa
-- 👀 I’m interested in ... coding blockchain games 
-- 🌱 I’m currently learning ... html , JavaScript , CSS, Python, c# , node.js , cloud computing , machine learning & neural networks 
-- 💞️ I’m looking to collaborate on ... blockchain games using NFTs 
-- 📫 How to reach me ... 
+
 madisonoliviaa8@gmail.com 
 
 Twitter- madisonoliviaa_ 
